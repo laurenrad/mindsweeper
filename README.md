@@ -1,6 +1,7 @@
 # Mindsweeper 1.0
 ### (c)Lauren Rad 2024
 ---
+![mindsweep3](https://github.com/user-attachments/assets/73841554-30f1-460d-82b8-be0e0108aaeb)
 
 See LICENSE for license information.
 
